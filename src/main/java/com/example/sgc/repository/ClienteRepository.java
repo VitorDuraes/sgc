@@ -1,4 +1,4 @@
-package main.java.com.example.sgc.repository;
+package com.example.sgc.repository;
 
 import com.example.sgc.model.Cliente;
 import org.springframework.data.jpa.repository.JpaRepository;

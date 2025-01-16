@@ -1,4 +1,4 @@
-package main.java.com.example.sgc.model;
+package com.example.sgc.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

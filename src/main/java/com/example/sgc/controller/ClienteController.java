@@ -1,4 +1,4 @@
-package main.java.com.example.sgc.controller;
+package com.example.sgc.controller;
 
 import com.example.sgc.model.Cliente;
 import com.example.sgc.service.ClienteService;

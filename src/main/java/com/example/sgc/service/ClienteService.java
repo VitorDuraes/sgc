@@ -1,4 +1,4 @@
-package main.java.com.example.sgc.service;
+package com.example.sgc.service;
 
 import com.example.sgc.model.Cliente;
 import com.example.sgc.repository.ClienteRepository;
