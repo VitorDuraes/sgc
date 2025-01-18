@@ -1,0 +1,5 @@
+com\example\sgc\repository\ClienteRepository.class
+com\example\sgc\controller\ClienteController.class
+com\example\sgc\SgcApplication.class
+com\example\sgc\model\Cliente.class
+com\example\sgc\service\ClienteService.class
